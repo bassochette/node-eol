@@ -1,6 +1,6 @@
 {
   "name": "node-eol",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "find the eol char for a given string",
   "main": "index.js",
   "repositories":"https://github.com/bassochette/node-eol.git",
